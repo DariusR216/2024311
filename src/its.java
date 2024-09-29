@@ -5,6 +5,7 @@ public class its {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
 		System.out.println("Program 2 did it ");
+		System.out.println("Program 1 did it ");
 	}
 
 }
